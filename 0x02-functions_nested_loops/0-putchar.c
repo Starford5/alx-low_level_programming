@@ -4,10 +4,10 @@
  *
  */
 
-#include "Starford.h"
+#include "main.h"
 
 /**
- * main - Prints "Starford" followed by a new line.
+ * main - Prints "main" followed by a new line.
  *
  * Return: Always 0.
  */
